@@ -1,0 +1,2 @@
+#define Processes_VERSION_MAJOR @Processes_VERSION_MAJOR@
+#define Processes_VERSION_MINOR @Processes_VERSION_MINOR@

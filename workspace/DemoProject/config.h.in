@@ -1,0 +1,2 @@
+#define DemoProject_VERSION_MAJOR @DemoProject_VERSION_MAJOR@
+#define DemoProject_VERSION_MINOR @DemoProject_VERSION_MINOR@
